@@ -48,6 +48,9 @@ import com.sun.star.lang.XSingleComponentFactory;
 import com.sun.star.registry.XRegistryKey;
 
 /**
+ * 
+ * Test comment for practicing git hub.
+ * 
  * Component main registration class.
  * 
  * <p><strong>This class should not be modified.</strong></p>
